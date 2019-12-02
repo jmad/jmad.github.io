@@ -4,3 +4,4 @@ description: The Java API for MadX
 show_downloads: false
 github:
   repository_url: https://github.com/jmad
+  is_project_page: true
