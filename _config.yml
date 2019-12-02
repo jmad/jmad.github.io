@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
 title: JMad
 description: The Java API for MadX
-show_downloads: false
+show_downloads: true
